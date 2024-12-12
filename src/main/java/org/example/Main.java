@@ -12,7 +12,18 @@ public class Main {
         System.out.println("Nuevo commit en main despues de rama");
         System.out.println("Otro commit en main");
 //=======
+//<<<<<<< Updated upstream
         System.out.println("nuevo commit desde la nuev arama login ");
+//=======
+    // HEAD lo que hizo main
+        System.out.println("Nuevo commit en main despues de rama");
+        System.out.println("Otro commit en main");
+//======= o
+        System.out.println("nuevo commit desde la nuev arama login ");
+//>>>>>>> login lo que hizo login
+
+        System.out.println("probando slashxd");
+//>>>>>>> Stashed changes
 //>>>>>>> login
     }
 }
