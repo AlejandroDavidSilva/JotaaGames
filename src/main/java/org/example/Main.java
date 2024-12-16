@@ -28,6 +28,10 @@ public class Main {
 
         System.out.println("Metiendo el proyecto a github");
         System.out.println("ya esta en github, ahora pruebo actualizarlo");
+//<<<<<<< HEAD
         System.out.println("prueba conflicto desde local");
+//=======
+        System.out.println("Creando un nuevo mensaje desde la pagina de github");
+//>>>>>>> 05cfdeec22e19aa99dd31249828c015ff1707196
     }
 }
