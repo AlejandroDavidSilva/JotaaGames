@@ -33,5 +33,6 @@ public class Main {
 //=======
         System.out.println("Creando un nuevo mensaje desde la pagina de github");
 //>>>>>>> 05cfdeec22e19aa99dd31249828c015ff1707196
+        System.out.println("Nueva prueba de git pull desde local");
     }
 }
