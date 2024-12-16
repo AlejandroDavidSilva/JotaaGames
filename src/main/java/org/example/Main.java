@@ -39,5 +39,8 @@ public class Main {
         System.out.println("Nueva prueba con el git pull");
 //>>>>>>> b784d83238b7188f9a8468fb155c4bf19844a667
         System.out.println("nueva prueba con el git pull pero creando un txt en github");
+
+
+        System.out.println("nueva prueba con el git pull pero creando un txt en github 2");
     }
 }
