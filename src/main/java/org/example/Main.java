@@ -43,6 +43,12 @@ public class Main {
 
         System.out.println("nueva prueba con el git pull pero creando un txt en github 2");
         System.out.println("prueba 3 de git pull");
+
+        System.out.println("nuevo lol");
+
+        System.out.println("Probando GitHub Desktop, app grafica de git");
+
+        System.out.println("probando GitKraken, app grafica de git 2");
         System.out.println("lol?");
         System.out.println("nuevo commit desde main probando gitkraken");
     }
